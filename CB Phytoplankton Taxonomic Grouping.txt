@@ -1,0 +1,213 @@
+taxa	group
+Achnanthes	diatom
+Actinastrum hantzschii	chlorophyte
+Actinastrum hantzschii fluviatile	chlorophyte
+Actinoptychus senarius	diatom
+Agmenellum	cyanobacteria
+Amphidinium	dinoflagellate
+Amphidinium sphenoides	dinoflagellate
+Amphiprora	diatom
+Amphora	diatom
+Anabaena	cyanobacteria
+Anabaenopsis	cyanobacteria
+Ankistrodesmus	chlorophyte
+Ankistrodesmus falcatus	chlorophyte
+Ankistrodesmus falcatus mirabilis	chlorophyte
+Apedinella radians	diatom
+Aphanizomenon issatschenkoi	cyanobacteria
+Asterionella formosa	diatom
+Asterionella glacialis	diatom
+Asterionellopsis glacialis	diatom
+Aulacoseira	diatom
+Aulacoseira distans	diatom
+Aulacoseira granulata	diatom
+Aulacoseira granulata angustissima	diatom
+Aulacoseira granulata spiralis	diatom
+Aulacoseira islandica	diatom
+Bacillaria paxillifer	diatom
+Blue green sphere	cyanobacteria
+Centrales	diatom
+Cerataulina pelagica	diatom
+Ceratium	dinoflagellate
+Ceratium furca	dinoflagellate
+Ceratium fusus	dinoflagellate
+Ceratium lineatum	dinoflagellate
+Ceratium pentagonum	dinoflagellate
+Ceratium tripos	dinoflagellate
+Chaetoceros	diatom
+Chaetoceros affinis	diatom
+Chaetoceros danicus	diatom
+Chaetoceros debilis	diatom
+Chaetoceros decipiens	diatom
+Chaetoceros didymus	diatom
+Chaetoceros difficilis	diatom
+Chaetoceros neogracilis	diatom
+Chaetoceros pendulus	diatom
+Chaetoceros subtilis	diatom
+Chaetoceros wighami	diatom
+Chattonella	diatom
+Chlorella	chlorophyte
+Chlorogonium	chlorophyte
+Chlorophyceae	chlorophyte
+Choanoflagellida	other
+Chroococcus	cyanobacteria
+Chroococcus dispersus	cyanobacteria
+Chrysochromulina	other
+Closterium	other
+Cocconeis	diatom
+Cochlodinium	dinoflagellate
+Cochlodinium heterolobatum	dinoflagellate
+Coelastrum	chlorophyte
+Corethron criophilum	diatom
+Coscinodiscus	diatom
+Coscinodiscus centralis	diatom
+Coscinosira polychorda	diatom
+Crucigenia quadrata	chlorophyte
+Cryptomonas	cryptophyte
+Cryptomonas erosa	cryptophyte
+Cyclotella	diatom
+Cyclotella caspia	diatom
+Cyclotella striata	diatom
+Cylindrotheca closterium	diatom
+Cymbella	diatom
+Dactyliosolen fragilissimus	diatom
+Dactylococcopsis	diatom
+Dactylococcopsis rhaphidioides	diatom
+Diatoma	diatom
+Dictyocha fibula	other
+Dictyosphaerium	other
+Didymocystis	chlorophyte
+Dinobryon	dinoflagellate
+Dinophysis	dinoflagellate
+Dinophysis acuminata	dinoflagellate
+Dinophysis norvegica	dinoflagellate
+Dinophysis punctata	dinoflagellate
+Diploneis	dinoflagellate
+Diplopsalis	dinoflagellate
+Diplopsalis lenticula	dinoflagellate
+Distephanus speculum	other
+Ditylum brightwellii	diatom
+Ebria tripartita	other
+Euastrum	chlorophyte
+Eucampia zoodiacus	diatom
+Euglena	dinoflagellate
+Eunotia	diatom
+Eutreptia	other
+Fragilaria	diatom
+Fragilaria crotonensis	diatom
+Golenkinia radiata	chlorophyte
+Gonium	chlorophyte
+Gonyaulax	dinoflagellate
+Green cells	other
+Guinardia delicatula	diatom
+Guinardia flaccida	diatom
+Guinardia striata	diatom
+Gymnodinium	dinoflagellate
+Gymnodinium nelsonii	dinoflagellate
+Gymnodinium splendens	dinoflagellate
+Gyrodinium	dinoflagellate
+Gyrodinium fusiforme	dinoflagellate
+Gyrodinium spirale	dinoflagellate
+Gyrosigma	diatom
+Gyrosigma fasciola	diatom
+Hemiaulus hauckii	diatom
+Heterocapsa triquetra	dinoflagellate
+Karlodinium micrum	dinoflagellate
+Katodinium rotundatum	dinoflagellate
+Lauderia annulata	diatom
+Leptocylindrus danicus	diatom
+Leptocylindrus minimus	diatom
+Licmophora	diatom
+Melosira	diatom
+Melosira moniliformis	diatom
+Melosira nummuloides	diatom
+Microcystis	cyanobacteria
+Microcystis aeruginosa	cyanobacteria
+Microcystis incerta	cyanobacteria
+Micro-phytoflagellates	other
+Minuscula bipes	diatom
+Monoraphidium	chlorophyte
+Navicula	diatom
+Nitzschia	diatom
+Odontella	diatom
+Odontella alternans	diatom
+Odontella aurita	diatom
+Odontella mobiliensis	diatom
+Odontella rhombus	diatom
+Odontella sinensis	diatom
+Oocystis	chlorophyte
+Oscillatoria	cyanobacteria
+Oxytoxum	dinoflagellate
+Pandorina morum	chlorophyte
+Paralia sulcata	diatom
+Pediastrum duplex	chlorophyte
+Pediastrum duplex clathratum	chlorophyte
+Pediastrum duplex gracillimum	chlorophyte
+Pediastrum simplex	chlorophyte
+Pediastrum tetras tetraodon	chlorophyte
+Pennales	diatom
+Peridinium	dinoflagellate
+Pinnularia	dinoflagellate
+Pleurosigma	diatom
+Pleurosigma angulatum	diatom
+Pleurosigma elongatum	diatom
+Polykrikos kofoidi	dinoflagellate
+Proboscia alata	diatom
+Prorocentrum aporum	dinoflagellate
+Prorocentrum gracile	dinoflagellate
+Prorocentrum micans	dinoflagellate
+Prorocentrum minimum	dinoflagellate
+Prorocentrum triestinum	dinoflagellate
+Protoperidinium	dinoflagellate
+Protoperidinium bipes	dinoflagellate
+Protoperidinium brevipes	dinoflagellate
+Protoperidinium depressum	dinoflagellate
+Protoperidinium granii	dinoflagellate
+Protoperidinium leonis	dinoflagellate
+Protoperidinium ovatum	dinoflagellate
+Protoperidinium pellucidum	dinoflagellate
+Protoperidinium pentagonum	dinoflagellate
+Pseudo-nitzschia pungens	diatom
+Pseudo-nitzschia seriata	diatom
+Psuedosolenia calcar-avis	diatom
+Pyramimonas	chlorophyte
+Pyrrophycophyta	dinoflagellate
+Raphidiopsis	chlorophyte
+Rhabdosphaera hispida	other
+Rhaphoneis	diatom
+Rhaphoneis amphiceros	diatom
+Rhaphoneis gemmifera	diatom
+Rhizosolenia	diatom
+Rhizosolenia imbricata	diatom
+Rhizosolenia setigera	diatom
+Rhizosolenia styliformis	diatom
+Scenedesmus	chlorophyte
+Scenedesmus abundans	chlorophyte
+Scenedesmus acuminatus	chlorophyte
+Scenedesmus denticulatus	chlorophyte
+Scenedesmus dimorphus	chlorophyte
+Scenedesmus quadricauda	chlorophyte
+Scenedesmus quadricauda maximus	chlorophyte
+Scrippsiella trochoidea	dinoflagellate
+Selenastrum	chlorophyte
+Skeletonema costatum	diatom
+Skeletonema potamos	diatom
+Spirulina	cyanobacteria
+Staurastrum	chlorophyte
+Stephanopyxis palmeriana	diatom
+Striatella	diatom
+Surirella	diatom
+Synedra	diatom
+Synura	diatom
+Tabellaria	diatom
+Tetraedron	chlorophyte
+Tetraedron trigonum	chlorophyte
+Tetraedron trigonum setigerum	chlorophyte
+Tetrastrum glabrum	chlorophyte
+Tetrastrum staurogeniaeforme	chlorophyte
+Thalassionema nitzschioides	diatom
+Thalassiosira	diatom
+Thalassiothrix	diatom
+Trachelomonas	other
+Triceratium	diatom
+Ulothrix	chlorophyte
